@@ -1,4 +1,4 @@
-## First Person Shooter Game; Theme: Outer Space
+# First Person Shooter Game; Theme: Outer Space
 
 ## Contributors: ARMY group
 - Ali Youssef Solh
