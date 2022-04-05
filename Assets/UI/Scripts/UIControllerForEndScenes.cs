@@ -12,8 +12,5 @@ public class UIControllerForEndScenes : MonoBehaviour
     {
         obtainedScore.text = "Score: " + OverallScore.overallScore.ToString() + "/" + OverallScore.TargetScore.ToString();
     }
-    // void Update()
-    // {
-        // obtainedScore.text = "Score: " + OverallScore.overallScore.ToString() + "/" + OverallScore.TargetScore.ToString();
-    // }
+
 }

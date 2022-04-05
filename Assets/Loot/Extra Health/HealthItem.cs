@@ -20,8 +20,7 @@ public class HealthItem : MonoBehaviour
             Destroy(this.gameObject);
         }
     }
-      void Update() {
-          transform.Rotate(0,1f,0);
-
+    void Update() {
+        transform.Rotate(0,1f,0);
     }
 }
